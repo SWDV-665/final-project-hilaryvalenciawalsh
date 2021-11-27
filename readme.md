@@ -3,4 +3,3 @@ Employee Directory Application
 - search by name, phone number, etc
 - responsive web app
 - deploying on heroku
-- using express, node, javascript, html, materialize-css, json, react
